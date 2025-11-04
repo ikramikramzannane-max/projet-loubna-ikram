@@ -13,3 +13,4 @@ document.querySelector("form").addEventListener("submit", function (e) {
     this.reset(); // Réinitialiser le formulaire
   }
 });
+<p>loubna</p>
